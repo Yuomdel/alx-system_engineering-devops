@@ -1,0 +1,9 @@
+#!bin/bash/env bash
+
+number=1
+
+while [ $number -lt 11 ]
+do
+   echo "$best school"
+   number=$((number+1))
+done
